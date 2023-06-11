@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "**Tech Tree**"
+  text: "Kami adalah konsultan teknologi informasi berfokus pada transformasi digital, jasa pengembangan aplikasi berbasis komputer, website, Smartphone hingga integrasi sistem antar jaringan."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: "#"
+

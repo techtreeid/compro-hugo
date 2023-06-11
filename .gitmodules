@@ -1,0 +1,6 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:techtreeid/techtreeid.github.io.git
+[submodule "themes/up-business-theme"]
+	path = themes/up-business-theme
+	url = git@gitlab.com:writeonlyhugo/up-business-theme.git

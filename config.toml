@@ -1,0 +1,3 @@
+baseURL = 'https://techtree.id/'
+languageCode = 'en-us'
+title = 'Tech Tree'
