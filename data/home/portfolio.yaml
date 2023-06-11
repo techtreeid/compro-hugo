@@ -1,39 +1,15 @@
 enabled: true
-id: "portfolio"
+id: "our-teams"
 
+title: "Our Teams"
+text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
 content:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/our-teams/ceo.png"
+    pretitle: "Chief Executive Officer (CEO)"
+    title: "Sal Prima"
+    text: "Warga Negara Indonesia. Memperoleh gelar Bachelor Honours of Computer Science di University of Hertfordshire 2010. Menjabat sebagai direktur perusahaan sejak tahun 2020. Sebelumnya menjabat sebagai Vice President of IT di Whee Indonesia, Software Architect di Coda Payments, IT Manager di Elevenia, dan Senior Software Engineer di Fastwire Pte Ltd."
 
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        url: "#"
-
-      - label: "Read more"
-        url: "#"
+  - image: "images/our-teams/cfo.png"
+    pretitle: "Chief Finance Officer (CFO)"
+    title: "Dony Prabowo"
+    text: "Warga Negara Indonesia. Memperoleh gelar Magister Manajemen bidang Keuangan dari Universitas Pancasila tahun 2016. Menjabat sebagai direktur perusahaan sejak tahun 2020. Sebelumnya menjabat sebagai Head of Finance and Accounting di Whee Indonesia, Finance and Accounting Manager di Prudential Life Assurance, lalu Finance and Accounting Manager di Sigma Mitra Convex."

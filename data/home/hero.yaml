@@ -2,7 +2,7 @@ enabled: true
 id: "hero"
 
 content:
-  title: "**Tech Tree**"
+  title: "How to **level up** your business"
   text: "Kami adalah konsultan teknologi informasi berfokus pada transformasi digital, jasa pengembangan aplikasi berbasis komputer, website, Smartphone hingga integrasi sistem antar jaringan."
 
   buttonPrimary:

@@ -17,6 +17,11 @@ hugo --config $config -t $theme # if using a theme, replace with `hugo -t <YOURT
 
 # Go To Public folder
 cd public
+# Pull latest changes
+git checkout master
+git stash
+git pull origin master
+git stash apply
 # Add changes to git.
 git add .
 

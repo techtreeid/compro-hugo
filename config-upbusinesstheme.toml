@@ -28,25 +28,25 @@ copyright = "© 2023 Tech Tree All Rights Reserved"
   facebook = "#"
   twitter = "#"
 
-[[menus.main]]
-name = "Home"
-url = "/#hero"
-weight = 1
+# [[menus.main]]
+# name = "Home"
+# url = "#hero"
+# weight = 1
 
-[[menus.main]]
-name = "How we work"
-url = "/#"
-weight = 2
+# [[menus.main]]
+# name = "How we work"
+# url = "/#"
+# weight = 2
 
 [[menus.main]]
 name = "Our team"
-url = "/#"
+url = "#our-teams"
 weight = 3
 
-[[menus.main]]
-name = "Pricing"
-url = "/#"
-weight = 4
+# [[menus.main]]
+# name = "Pricing"
+# url = "/#"
+# weight = 4
 
 # [[menus.main]]
 # name = "Blog"
@@ -55,7 +55,7 @@ weight = 4
 
 [[menus.buttons]]
 name = "Contact Us"
-url = "/#"
+url = "#footer"
 weight = 5
 pre = "btn btn-primary text-light"
 
