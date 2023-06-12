@@ -1,0 +1,20 @@
+enabled: true
+id: "core-values"
+
+content:
+  title: "Core Values"
+  list:
+    - text: "Bekerja dengan baik, benar dan totalitas "
+      image: "images/core-values/genu.png"
+
+    - text: "Menggunakan teknologi yang relevan dengan zaman"
+      image: "images/core-values/adapt.png"
+
+    - text: "Tulus memberikan kualitas pekerjaan terbaik"
+      image: "images/core-values/integrity.png"
+
+    - text: "Memberikan solusi menyeluruh atas kebutuhan"
+      image: "images/core-values/need.png"
+
+    - text: "Konsisten memberikan pelayanan yang unggul"
+      image: "images/core-values/service.png"

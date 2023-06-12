@@ -3,13 +3,16 @@ id: "hero"
 
 content:
   title: "How to **level up** your business"
-  text: "Kami adalah konsultan teknologi informasi berfokus pada transformasi digital, jasa pengembangan aplikasi berbasis komputer, website, Smartphone hingga integrasi sistem antar jaringan."
+  text: | 
+    Kami adalah konsultan teknologi informasi berfokus pada transformasi digital, jasa pengembangan aplikasi berbasis komputer, website, Smartphone hingga integrasi sistem antar jaringan.
+    Kami juga menyediakan jasa pengadaan dan pemasangan perangkat infrastruktur teknologi komputasi terbaik untuk mendukung otomasi bisnis.
+    Dengan pengalaman lebih dari 15 tahun, Kami siap dan mampu memberikan pengalaman, keahlian dan kinerja terbaik untuk pemenuhan kebutuhan akselerasi teknologi Anda.
 
   buttonPrimary:
-    label: "How we work"
-    url: "#"
+    label: "Our Teams"
+    url: "#our-teams"
 
   buttonSecondary:
     label: "Let's talk"
-    url: "#"
+    url: "#footer"
 
