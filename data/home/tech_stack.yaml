@@ -1,0 +1,26 @@
+enabled: true
+id: "tech_stack"
+
+content:
+  title: "Technology Stack"
+  items:
+    - "images/tech-stack/alibaba.png"
+    - "images/tech-stack/android.png"
+    - "images/tech-stack/aws.png"
+    - "images/tech-stack/do.png"
+    - "images/tech-stack/docker.png"
+    - "images/tech-stack/firebase.png"
+    - "images/tech-stack/flutter.png"
+    - "images/tech-stack/ghost.png"
+    - "images/tech-stack/go.png"
+    - "images/tech-stack/hugo.png"
+    - "images/tech-stack/ios.png"
+    - "images/tech-stack/java.png"
+    - "images/tech-stack/laravel.png"
+    - "images/tech-stack/node.png"
+    - "images/tech-stack/odoo.png"
+    - "images/tech-stack/php.png"
+    - "images/tech-stack/react.png"
+    - "images/tech-stack/vue.png"
+    - "images/tech-stack/woo.png"
+    - "images/tech-stack/wp.png"

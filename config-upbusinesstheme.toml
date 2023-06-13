@@ -28,25 +28,25 @@ copyright = "© 2023 Tech Tree All Rights Reserved"
   facebook = "#"
   twitter = "#"
 
-# [[menus.main]]
-# name = "Home"
-# url = "#hero"
-# weight = 1
-
-# [[menus.main]]
-# name = "How we work"
-# url = "/#"
-# weight = 2
+[[menus.main]]
+name = "Home"
+url = "/"
+weight = 1
 
 [[menus.main]]
 name = "Our team"
 url = "#our-teams"
+weight = 2
+
+[[menus.main]]
+name = "Clients"
+url = "#clients"
 weight = 3
 
-# [[menus.main]]
-# name = "Pricing"
-# url = "/#"
-# weight = 4
+[[menus.main]]
+name = "Portfolio"
+url = "#portfolio"
+weight = 4
 
 # [[menus.main]]
 # name = "Blog"
@@ -61,28 +61,28 @@ pre = "btn btn-primary text-light"
 
 [[menus.footer]]
 name = "Home"
-url = "/#hero"
+url = "#header"
 weight = 1
 
 [[menus.footer]]
-name = "How we work"
-url = "/#"
+name = "Our team"
+url = "#our-teams"
 weight = 2
 
 [[menus.footer]]
-name = "Our team"
-url = "/#"
+name = "Clients"
+url = "#clients"
 weight = 3
 
 [[menus.footer]]
-name = "Pricing"
-url = "/#"
+name = "Portfolio"
+url = "#portfolio"
 weight = 4
 
-[[menus.footer]]
-name = "Blog"
-url = "/blog"
-weight = 5
+# [[menus.footer]]
+# name = "Blog"
+# url = "/blog"
+# weight = 5
 
 [taxonomies]
 series = "series"

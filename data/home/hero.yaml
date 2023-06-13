@@ -8,9 +8,9 @@ content:
     Kami juga menyediakan jasa pengadaan dan pemasangan perangkat infrastruktur teknologi komputasi terbaik untuk mendukung otomasi bisnis.
     Dengan pengalaman lebih dari 15 tahun, Kami siap dan mampu memberikan pengalaman, keahlian dan kinerja terbaik untuk pemenuhan kebutuhan akselerasi teknologi Anda.
 
-  buttonPrimary:
-    label: "Our Teams"
-    url: "#our-teams"
+  # buttonPrimary:
+  #   label: "Let's talk"
+  #   url: "#footer"
 
   buttonSecondary:
     label: "Let's talk"

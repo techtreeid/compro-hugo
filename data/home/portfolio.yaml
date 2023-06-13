@@ -1,0 +1,52 @@
+enabled: true
+id: "portfolio"
+
+title: "Portfolio"
+# text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+content:
+  - image: "images/portfolio/alfamikro.png"
+    title: "Aplikasi Survei Toko Mitra (Alfa Mikro)"
+    pretitle: "Mobile Apps"
+    text: |
+      Memiliki fitur utama untuk melakukan survei ke toko mitra seperti pengambilan foto lokasi, input data mitra, pemesanan barang kebutuhan serta tracking progress kegiatan kunjungan. 
+      Aplikasi ini memudahkan mitra untuk melakukan pendaftaran akun dan verifikasinya akan dilakukan oleh petugas secara langsung sesuai titik lokasi toko, sehingga proses pemesanan barang akan dipenuhi oleh cabang distributor terdekat.
+    # button:
+    #   label: "Learn more"
+    #   url: "#"
+
+  - image: "images/portfolio/rasamala.png"
+    title: "Rasamala Room Management"
+    pretitle: "Mobile Apps & Web Apps"
+    text: |
+      Paket sistem penginapan, hotel dan homestay, terintegrasi secara online mulai dari website, dashboard administrasi dan aplikasi mobile untuk reservasi kamar.
+      Data disimpan secara terpusat pada infrastruktur cloud yang memungkinkan keterbukaan informasi untuk pemilik resort dan karyawan operasional di lapangan, sehingga dapat meminimalisir resiko duplikasi pesanan.
+  
+  - image: "images/portfolio/jasa-logistik.png"
+    title: "Jasa Logistik B2B"
+    pretitle: "Web Apps"
+    text: |
+      Setiap usaha dari UKM hingga perusahaan besar, memiliki kebutuhan pengiriman barang ke pelanggan, kantor cabang, vendor, distributor dan mitra. Kami menyediakan aplikasi web jasa logistik untuk semua karyawan, jadi sekarang mereka dapat memproses sendiri pengiriman barang apapun sesuai dengan jadwal. 
+      Pilihan pengiriman yang fleksibel mulai dari layanan Reguler, Next-Day, Layanan Instan dengan sepeda motor dan pengiriman cepat barang yang lebih besar menggunakan Mobil atau Truk. Lalu, untuk data rincian penggunaan ada di dalam dashboard laporan bulanan dan penagihan.
+
+  - image: "images/portfolio/his.png"
+    title: "Hospital Management System (HIS)"
+    pretitle: "Web Apps"
+    text: |
+      Hospital Management System (HIS) berlaku untuk Rumah Sakit, Klinik, atau Puskesmas. Mempunyai Fitur dan modul seperti Penerimaan, Reservasi, Antrian, Rawat Jalan, Rawat Inap, Medical Checkup, Laboratorium, Radiologi, Farmasi, Inventaris, Billing, Rekam Medis Elektronik (EMR), Kepatuhan ICD 9/10.
+      Sistem Manajemen Rumah Sakit ini juga terintegrasi dengan BPJS Kesehatan serta terbuka dan dapat terhubung melalui Open API ke Sistem Akuntansi pengelola laporan keuangan jika diperlukan.
+
+  - image: "images/portfolio/mobile-collection.png"
+    title: "Mobile Collection"
+    pretitle: "Mobile Apps"
+    text: |
+      Penagihan (Collection) memiliki peran penting bagi perusahaan sebagai Layanan Keuangan, Perbankan, Ritel, Distribusi. 
+      Kami dapat memberikan solusi untuk membantu  tim penagihan perusahaan  untuk bekerja lebih optimal. Staf Penagihan Lapangan dapat melihat daftar akun penagihan, profil, informasi jumlah tagihan, menemukan lokasi GPS, melihat riwayat pembayaran, dan menagih pembayaran melalui Tunai, Virtual Account Bank, atau Pembayaran Online. 
+      Aplikasi ini juga memiliki kemampuan untuk dihubungkan dengan Bluetooth Printer, dan EDC.
+
+  - image: "images/portfolio/mobile-pos.png"
+    title: "Aplikasi Kasir"
+    pretitle: "Mobile Apps"
+    text: |
+      Kami mengembangkan aplikasi Mobile Point of Sales (POS) atau kasir untuk usaha kecil, usaha menengah dan kios perorangan. 
+      Dalam aplikasi ini kami menyediakan fitur pengaturan stok barang, dan katalog produk dengan harga yang fleksibel dan fitur diskon/promo. Aplikasi akan menangani transaksi di toko/kios dan dapat menerima pembayaran uang tunai, kartu kredit, dan e-money (GoPay, OVO, dll.) 
+      Aplikasi ini juga menyediakan laporan transaksi sederhana dan terintegrasi dengan sistem akuntansi untuk detail laporan keuangan dan pembukuan.

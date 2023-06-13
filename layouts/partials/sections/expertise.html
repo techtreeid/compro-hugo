@@ -1,4 +1,4 @@
-<section class="section testimonials py-5">
+<section class="section testimonials">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -14,7 +14,7 @@
             {{ with $e.image }}
               {{ partial "utilities/image-fluid.html" $e.image }}
               <div class="card-body">
-                <p class="card-text text-black-61"><span class="fw-bold text-danger text-nowrap">- {{ $e.text }}</span></p>
+                <p class="card-text text-center">{{ $e.text }}</p>
               </div>
             {{ end }}
           </div>

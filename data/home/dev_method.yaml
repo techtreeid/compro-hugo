@@ -1,0 +1,9 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Development Method"
+  image: "images/scrum.jpg"
+  # button:
+  #   label: "Let's talk"
+  #   url: "#"

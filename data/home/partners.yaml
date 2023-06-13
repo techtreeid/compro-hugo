@@ -1,0 +1,19 @@
+enabled: true
+id: "partners"
+
+content:
+  title: "Partners"
+  items:
+    - "images/partner/microsoft.jpg"
+    - "images/partner/cisco.png"
+    - "images/partner/comvault.png"
+    - "images/partner/dxtr.png"
+    - "images/partner/fujitsu.png"
+    - "images/partner/hp.png"
+    - "images/partner/jawara.png"
+    - "images/partner/mobilepulsa.png"
+    - "images/partner/rid.png"
+    - "images/partner/sagara.png"
+    - "images/partner/sprint.png"
+    - "images/partner/trendmicro.png"
+    - "images/partner/veeam.png"

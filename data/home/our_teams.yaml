@@ -2,7 +2,7 @@ enabled: true
 id: "our-teams"
 
 title: "Our Teams"
-text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+# text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
 content:
   - image: "images/our-teams/ceo.png"
     pretitle: "Chief Executive Officer (CEO)"
